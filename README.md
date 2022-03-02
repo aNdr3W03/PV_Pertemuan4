@@ -11,13 +11,13 @@
 #### Terdapat dua (2) folder SharpDevelop Project Solution
 
 **1. PV_4_ButtonMessageBox**
-> - Project Solution ini akan meminta input Nama, NIM, Kelas, dan Mata Kuliah yang akan ditampilkan di MessageBox baru.
+> - Project Solution ini akan meminta input __Nama, NIM, Kelas, dan Mata Kuliah__ yang akan ditampilkan di MessageBox baru.
 > - Folder ini merupakan project/solution __Windows Application__ SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat dalam folder PV_3_Tugas1, file `.cs` (C# Source File) yaitu `MainForm.cs`.
 
 **2. PV_4_ButtonNama**
-> - Project Solution ini akan meminta input Nama yang akan ditampilkan di MessageBox baru.
+> - Project Solution ini akan meminta input __Nama__ yang akan ditampilkan di MessageBox baru.
 > - Folder ini merupakan project/solution __Windows Application__ SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat dalam folder PV_3_Tugas1, file `.cs` (C# Source File) yaitu `MainForm.cs`.

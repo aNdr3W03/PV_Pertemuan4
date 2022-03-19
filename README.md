@@ -1,3 +1,8 @@
+> ⚠️ Moved to new repository [PemrogramanVisual](https://github.com/aNdr3W03/PemrogramanVisual) ⚠️
+> 
+> This repository has been completely moved to a new repository (Sunday, 20-03-2022, 02.47) which will be merge with other assignment
+
+# 
 # PV_Pertemuan4
 #### Tugas mata kuliah Pemrograman Visual pertemuan 4 (Pemrograman Visual Sederhana) 
 #### Dosen Pengampu: T. Henny Febriana Harumy, S.Kom., M.Kom.
